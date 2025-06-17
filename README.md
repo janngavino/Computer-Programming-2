@@ -2,20 +2,6 @@ My Java Repository!
 
 This repository contains a collection of My Java classwork activities focused on various programming concepts, including employee information systems, GUI applications, and a final lab project. Each activity showcases different skills and techniques used in Java programming.
 
-Folder Structure:
-
-my_java_repository/
-
-• LabActivity1EmployeeInformationSystem.java
-• LabActivity2EmployeeInformationSystemPart2.java
-• LabActivity3ConditionalStatement.java
-• LabActivity4EmpInfoSystemGUI.java
-• LabActivity5QuizAppAWT.java
-• LabActivity6SwingToDoList.java
-• MyMidtermLabExam.java
-• finallabprojectcalculator.java
-• review_gavino.py
-
 CLASSWORK ACTIVITIES:
 
 ✓ LabActivity1EmployeeInformationSystem.java
