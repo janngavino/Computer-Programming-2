@@ -5,16 +5,16 @@ This repository contains a collection of My Java classwork activities focused on
 Folder Structure:
 
 my_java_repository/
-│
-├── LabActivity1EmployeeInformationSystem.java
-├── LabActivity2EmployeeInformationSystemPart2.java
-├── LabActivity3ConditionalStatement.java
-├── LabActivity4EmpInfoSystemGUI.java
-├── LabActivity5QuizAppAWT.java
-├── LabActivity6SwingToDoList.java
-├── MyMidtermLabExam.java
-└── finallabprojectcalculator.java
-└── review_gavino.py
+
+• LabActivity1EmployeeInformationSystem.java
+• LabActivity2EmployeeInformationSystemPart2.java
+• LabActivity3ConditionalStatement.java
+• LabActivity4EmpInfoSystemGUI.java
+• LabActivity5QuizAppAWT.java
+• LabActivity6SwingToDoList.java
+• MyMidtermLabExam.java
+• finallabprojectcalculator.java
+• review_gavino.py
 
 CLASSWORK ACTIVITIES:
 
